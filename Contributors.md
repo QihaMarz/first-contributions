@@ -277,6 +277,7 @@ Chirantan
 - [Michael Fletez](https://github.com/mfletez)
 - [Mano Bharathi](https://github.com/ManoBharathi93)
 - [Harshal Bharatkar](https://github.com/harshal43)
+- [Qiha Marz](https://github.com/QihaMarz)
 - [Rumas](https://github.com/Rumas97)
 - [Tushar](https://github.com/Tusharupadhyay784)
 - [Grace](https://github.com/Gracie254)
